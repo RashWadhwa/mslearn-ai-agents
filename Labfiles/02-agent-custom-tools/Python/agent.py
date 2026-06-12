@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 
 # Add references
 
-
 def main(): 
     # Clear the console
     os.system('cls' if os.name=='nt' else 'clear')
